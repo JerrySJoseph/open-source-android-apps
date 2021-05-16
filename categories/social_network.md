@@ -58,7 +58,7 @@ App Name                   | Describe                  | Major Language         
 ### H  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- |  |  |
+ [Helping Hands](https://github.com/JerrySJoseph/Helping_Hands_Android_client)| An application to find social service volunteer providing services to people | Java ||
 
 ### I  
 App Name                   | Describe                  | Major Language             | Download 
